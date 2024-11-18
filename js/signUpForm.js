@@ -11,7 +11,7 @@ function formValidate(e)
 	if(isNaN(phone.value)){
 		alert("Error: Phone/Mobile number should be 10 digit.");
 		phone.focus();
-		return false;
+		return false; 
 	}
 
 	if(phone.value.length != 10){

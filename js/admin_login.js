@@ -6,6 +6,6 @@ function validate(){
     }
     else{
         alert("VALIDATION FAILED!!!!");
-        return false;
+        return false; 
     }
 }

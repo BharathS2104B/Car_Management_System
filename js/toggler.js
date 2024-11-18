@@ -4,4 +4,4 @@ $(function() {
     		$("#Nav").css("background-color","#cecece");
     		$("a.Navbar").css("color","black");
     });
-});
+}); 

@@ -7,7 +7,8 @@ pass.push("user2");
 user.push("user@yahoo.com");
 user.push("user2@gmail.com");*/
 //user3ABCD
-function validate(){
+function validate(){ 
+	
     let i;
     let len_temp = temp;
     console.log(len_temp);

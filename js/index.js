@@ -8,7 +8,7 @@ $(function() {
     });
 });
 
-function classToggle() {
+function classToggle() { 
   const navs = document.querySelectorAll('.Navbar__Items');
   const back = document.querySelector('.Navbar');
   navs.forEach(nav => nav.classList.toggle('Navbar__ToggleShow'));
